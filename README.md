@@ -20,3 +20,4 @@ The script shall automatically install all the dependencies
 !cd youtube_uploader\
 !python youtube_uploader/setup.py\
 !python2 youtube_uploader/upload.py
+Nn
